@@ -74,6 +74,6 @@ def run_game():
       print("The Winner is:        USER!!")
       break
       
-      rounds += 1
+    rounds += 1
     
 run_game()
