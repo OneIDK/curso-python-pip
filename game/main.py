@@ -9,7 +9,7 @@ def choose_options():
   
   if not user_option in options:
     print('That is not a valid option')
-    #continue
+    # continue
     return None, None
   
   # prints
